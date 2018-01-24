@@ -4,7 +4,7 @@ subtitle: "推しはかわいい"
 author: "しの"
 avatar: "img/das.png"
 image: "img/IMG_2314.JPG.jpg"
-date:   2017-011-03 08:23:12
+date:   2017-11-03 08:23:12
 ---
 
 ### ホントンはいいぞ
